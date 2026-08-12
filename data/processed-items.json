@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+      "title": "SpaceXAI、「Grok 4.6」を発表　総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+      "processedAt": "2026-08-12T22:32:37.657Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+      "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+      "processedAt": "2026-08-12T22:32:37.657Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news008.html",
+      "title": "［Python］Polars公式が「全部書き換えるな」と言う理由　pandasからの移行、3戦略",
+      "processedAt": "2026-08-12T22:32:37.657Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表　10％軽く、1mm薄くしつつ耐久性強化",
+      "processedAt": "2026-08-12T22:32:37.657Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+      "title": "Google新スマホ「Pixel 11シリーズ」正式発表　「Gemini Intelligence」向けに設計　カメラも強化",
+      "processedAt": "2026-08-12T22:32:37.657Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
       "title": "AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる",
       "processedAt": "2026-08-11T22:34:11.897Z"
