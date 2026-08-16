@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
+      "processedAt": "2026-08-16T22:14:20.167Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+      "processedAt": "2026-08-16T22:14:20.167Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+      "processedAt": "2026-08-16T22:14:20.167Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
+      "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
+      "processedAt": "2026-08-16T22:14:20.167Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260815-dbgate/",
       "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
       "processedAt": "2026-08-15T22:13:09.502Z"
