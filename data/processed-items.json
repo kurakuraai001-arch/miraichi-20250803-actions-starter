@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news004.html",
+      "title": "【Pythonで学ぶデータ分析】対応のあるデータの母平均に差があるかどうかをベイズt検定で調べる ～ ホラー映画を観ると握力は上がるのか？",
+      "processedAt": "2026-08-18T22:15:56.306Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
+      "processedAt": "2026-08-18T22:15:56.306Z"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news015.html",
+      "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ",
+      "processedAt": "2026-08-18T22:15:56.306Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+      "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+      "processedAt": "2026-08-18T22:15:56.306Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+      "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+      "processedAt": "2026-08-18T22:15:56.306Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
       "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス　マネーフォワード",
       "processedAt": "2026-08-17T22:16:31.437Z"
