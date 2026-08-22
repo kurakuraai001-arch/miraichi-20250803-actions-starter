@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20260822-waymo-brain/",
+      "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
+      "processedAt": "2026-08-22T22:14:58.791Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/",
+      "title": "Raspberry Pi向け純正タッチパネル「Raspberry Pi Touch Display 2」の10インチモデルをフォトレビュー、サイズ大幅アップで解像度向上",
+      "processedAt": "2026-08-22T22:14:58.791Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260822-hubble-md/",
+      "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能",
+      "processedAt": "2026-08-22T22:14:58.791Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260822-modelmap/",
+      "title": "AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」",
+      "processedAt": "2026-08-22T22:14:58.791Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
       "title": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
       "processedAt": "2026-08-21T22:16:42.999Z"
