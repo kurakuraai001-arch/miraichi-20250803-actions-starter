@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
+      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
+      "processedAt": "2026-08-23T22:14:14.954Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+      "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+      "processedAt": "2026-08-23T22:14:14.954Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "processedAt": "2026-08-23T22:14:14.954Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/",
+      "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果",
+      "processedAt": "2026-08-23T22:14:14.954Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260824-gigazine-kindle-ranking-2026-07/",
+      "title": "文学賞受賞作が決まる仕組み・アニメ映画『花緑青が明ける日に』監督インタビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年7月版はコレ！",
+      "processedAt": "2026-08-23T22:14:14.954Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260822-waymo-brain/",
       "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
       "processedAt": "2026-08-22T22:14:58.791Z"
