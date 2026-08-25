@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
+      "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
+      "processedAt": "2026-08-25T22:18:56.553Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+      "title": "あなたが使うAIの「中身」、実は中国モデルかも　米企業のAPI利用で58％",
+      "processedAt": "2026-08-25T22:18:56.553Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+      "title": "「今からロボットを現場投入できないか？」　増えた日本企業からの問い合わせ　“頭脳”を作る韓国企業が感じた国内の変化",
+      "processedAt": "2026-08-25T22:18:56.553Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+      "title": "政府、AI事業者向け「知財保護ルール」策定　対象範囲・運用方針は？",
+      "processedAt": "2026-08-25T22:18:56.553Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
+      "title": "話題のステルスモデル「Ox Alpha」はナニモノか　うわさをまとめてみた",
+      "processedAt": "2026-08-25T22:18:56.553Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
       "title": "【復旧済み】「Claude」で障害発生中",
       "processedAt": "2026-08-24T22:17:55.377Z"
