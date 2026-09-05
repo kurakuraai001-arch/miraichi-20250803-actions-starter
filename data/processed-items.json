@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+      "processedAt": "2026-09-05T23:28:53.304Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
+      "title": "「最大45％コスト減」　Anthropicが「Claude Fable 5.1」発表　脆弱性検知にも対応",
+      "processedAt": "2026-09-05T23:28:53.304Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+      "processedAt": "2026-09-05T23:28:53.304Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260906-web-ai-signs/",
+      "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明",
+      "processedAt": "2026-09-05T23:28:53.304Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20260905-cern-rhel-debian/",
+      "title": "CERNがRedHat系OSからDebianへの移行作戦を実施中",
+      "processedAt": "2026-09-05T23:28:53.304Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001166/",
       "title": "従業員が「個人利用のAIサービス」に顧客情報をアップロード　RIZAPが謝罪",
       "processedAt": "2026-09-04T23:36:22.776Z"
