@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html",
+      "title": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
+      "processedAt": "2026-09-15T23:52:06.004Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+      "processedAt": "2026-09-15T23:52:06.004Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
+      "title": "富士通、国産CPU「モナカ」販売　スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
+      "processedAt": "2026-09-15T23:52:06.004Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news003.html",
+      "title": "【Pythonで学ぶデータ分析】独立性の検定をベイズ統計で行う ～ 雨男・雨女は本当にいるのか？",
+      "processedAt": "2026-09-15T23:52:06.004Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
+      "title": "「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？",
+      "processedAt": "2026-09-15T23:52:06.004Z"
+    },
+    {
       "url": "https://gigazine.net/news/20260915-gigazine-user-daily-food-cost/",
       "title": "年代や月収によって普段の食事に支払う金額は変わるのか？朝食・昼食・おやつ・夕食それぞれで分析した結果",
       "processedAt": "2026-09-15T00:06:39.028Z"
