@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html",
+      "title": "2D図面から3D CADモデルを自動生成、AIエージェント開発実証が長野県の事業に採択",
+      "processedAt": "2026-10-08T01:27:50.072Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261008-nobel-prize-in-chemistry-2026/",
+      "title": "2026年度ノーベル化学賞を日本の硤合憲三氏とフランスのアンリ・ケーガン氏が受賞、授賞理由となった「不斉自己触媒反応」とは？",
+      "processedAt": "2026-10-08T01:27:50.072Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
+      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
+      "processedAt": "2026-10-08T01:27:50.072Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/business/articles/2610/08/news041.html",
+      "title": "「日本の勝ち筋は計測にある」　東北大がノーベル賞・田中耕一氏と挑む「精度1000倍」の限界突破",
+      "processedAt": "2026-10-08T01:27:50.072Z"
+    },
+    {
       "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/07/2000001697/",
       "title": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
       "processedAt": "2026-10-07T01:11:54.051Z"
