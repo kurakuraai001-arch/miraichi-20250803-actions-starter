@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+      "processedAt": "2026-10-18T23:49:43.141Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "title": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
+      "processedAt": "2026-10-18T23:49:43.141Z"
+    },
+    {
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは　データ活用“逆算”の鉄則",
+      "processedAt": "2026-10-18T23:49:43.141Z"
+    },
+    {
+      "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+      "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+      "processedAt": "2026-10-18T23:49:43.141Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261019-ceiling-fans/",
+      "title": "天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由",
+      "processedAt": "2026-10-18T23:49:43.141Z"
+    },
+    {
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
       "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
       "processedAt": "2026-10-17T23:40:32.155Z"
