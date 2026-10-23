@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+      "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+      "processedAt": "2026-10-23T00:17:13.821Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
+      "title": "広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ”",
+      "processedAt": "2026-10-23T00:17:13.821Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告",
+      "processedAt": "2026-10-23T00:17:13.821Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
+      "title": "PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon",
+      "processedAt": "2026-10-23T00:17:13.821Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
       "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
       "processedAt": "2026-10-22T00:20:52.403Z"
