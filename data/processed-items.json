@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20261024-access/",
+      "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
+      "processedAt": "2026-10-24T00:10:41.865Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "processedAt": "2026-10-24T00:10:41.865Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "processedAt": "2026-10-24T00:10:41.865Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+      "title": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
+      "processedAt": "2026-10-24T00:10:41.865Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
       "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
       "processedAt": "2026-10-23T00:17:13.821Z"
