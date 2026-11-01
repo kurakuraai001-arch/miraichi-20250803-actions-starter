@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "processedAt": "2026-11-01T00:35:27.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/",
+      "title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
+      "processedAt": "2026-11-01T00:35:27.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261031-hitster-anison/",
+      "title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
+      "processedAt": "2026-11-01T00:35:27.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261031-monstercloud-ransomware-victims/",
+      "title": "「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される",
+      "processedAt": "2026-11-01T00:35:27.194Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261031-m3e-canvas/",
+      "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "processedAt": "2026-11-01T00:35:27.194Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
       "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
       "processedAt": "2026-10-31T01:19:09.612Z"
