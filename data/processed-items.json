@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "processedAt": "2026-11-12T02:38:11.779Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "processedAt": "2026-11-12T02:38:11.779Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
+      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+      "processedAt": "2026-11-12T02:38:11.779Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+      "processedAt": "2026-11-12T02:38:11.779Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+      "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+      "processedAt": "2026-11-12T02:38:11.779Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
       "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
       "processedAt": "2026-11-11T01:38:12.609Z"
