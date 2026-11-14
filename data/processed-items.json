@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "url": "https://gigazine.net/news/20261114-ai-generated-scientific-papers/",
+      "title": "AIを使って科学論文を偽造してみたらこうなった",
+      "processedAt": "2026-11-14T01:55:23.110Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/",
+      "title": "無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能",
+      "processedAt": "2026-11-14T01:55:23.110Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
       "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
       "processedAt": "2026-11-13T02:18:23.308Z"
