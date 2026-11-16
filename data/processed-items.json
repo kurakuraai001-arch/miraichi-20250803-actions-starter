@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "processedAt": "2026-11-16T01:30:45.741Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+      "processedAt": "2026-11-16T01:30:45.741Z"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
+      "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
+      "processedAt": "2026-11-16T01:30:45.741Z"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
+      "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+      "processedAt": "2026-11-16T01:30:45.741Z"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
+      "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+      "processedAt": "2026-11-16T01:30:45.741Z"
+    },
+    {
       "url": "https://gigazine.net/news/20261115-dayjob-tax/",
       "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
       "processedAt": "2026-11-15T01:27:57.390Z"
