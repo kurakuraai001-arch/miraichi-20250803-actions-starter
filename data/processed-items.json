@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+      "title": "AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
+      "processedAt": "2026-11-27T03:57:23.961Z"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
+      "processedAt": "2026-11-27T03:57:23.961Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "processedAt": "2026-11-27T03:57:23.961Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
+      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "processedAt": "2026-11-27T03:57:23.961Z"
+    },
+    {
+      "url": "https://gigazine.net/news/20261127-dna-polycube-like-minecraft/",
+      "title": "DNAで『マインクラフト』のように立体構造を構築する技術が登場、合計400個のDNAブロックでナノサイズの複雑な構造の形成に成功",
+      "processedAt": "2026-11-27T03:57:23.961Z"
+    },
+    {
       "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
       "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
       "processedAt": "2026-11-26T04:00:42.198Z"
